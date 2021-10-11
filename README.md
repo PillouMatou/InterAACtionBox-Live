@@ -9,6 +9,7 @@ File available for now at :
 - using Startup Disk Creator on Ubuntu for example
 - using [Rufus](https://rufus.ie/en/) on Window (download here https://rufus.ie/en/)
 - using [mac tool](https://ipom.fr/2019/07/03/creer-windows-10-bootable-graver-un-fichier-iso-sur-usb-dvd-cd-sur-mac-os-x/) on Mac
+
 ## Step 3: insert the key in the computer
 cf https://github.com/InteraactionGroup/InterAACtionBox to see which PC we selected
 
@@ -18,6 +19,9 @@ cf https://github.com/InteraactionGroup/InterAACtionBox to see which PC we selec
 
 ## Step 5: install the OS selecting "minimal" install
 You must be connected to the internet to access the box launcher interaction
+
+## Users
+when you will connect, your user that you have created does not exist (known bug), you will have two default users, for local admin the password is localadmin and for local user the password is localuser
 
 ## Bug case
 If the interaction box blocks you in the menus and you need to exit, turn on the computer, get out of the standby mode and go to the user menu, then restart the computer
