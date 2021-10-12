@@ -1,14 +1,37 @@
 # InterAACtionBox-Live
 
-## Step 1: Download the ISO
+## Etape 1: Téléchargement de l'ISO
 
-File available for now at :
-- https://www.swisstransfer.com/d/0ac666f7-65cf-47b7-b69b-3e3555334c08
+Le fichier est disponible ici :
+- https://www.swisstransfer.com/d/977a58c2-4174-4bf3-84b9-ff84378b28ae
 
-## Step 2: Burn the downloaded ISO to a USB key
-- using Startup Disk Creator on Ubuntu for example
-- using [Rufus](https://rufus.ie/en/) on Window (download here https://rufus.ie/en/)
-- using [mac tool](https://ipom.fr/2019/07/03/creer-windows-10-bootable-graver-un-fichier-iso-sur-usb-dvd-cd-sur-mac-os-x/) on Mac
+## Etape 2: Graver l'ISO téléchargé sur la clé USB
+- Utiliser Startup Disk Creator sur Ubuntu
+
+Lorsque vous télécharger startup Disk creator vous devrez avoir cette image.
+
+![startup Disk creator](assets/tutorial/startupDiskCreator.png)
+
+Il vous faudra choisir le périphérique où vous voudrez graver l'ISO.   <br>
+Puis aller cherche l'ISO que vous voulez graver.
+
+![creator peripherique iso](assets/tutorial/creatorPeripheriqueIso.png)
+
+Au moment graver l'ISO sur la clé USB, une fenêtre d'avertissement apparaîtra.
+
+![creator avertissement](assets/tutorial/fenetreDavertissement.png)
+
+Il faut cliquer sur oui.
+
+Après plusieurs minutes d'attente, vous devriez obtenir cette fenêtre si tout s'est bien passé.
+
+![creator reussit](assets/tutorial/CreatorReussit.png)
+
+- Utiliser [Rufus](https://rufus.ie/en/) on Window (download here https://rufus.ie/en/)
+
+
+
+- Utiliser [mac tool](https://ipom.fr/2019/07/03/creer-windows-10-bootable-graver-un-fichier-iso-sur-usb-dvd-cd-sur-mac-os-x/) on Mac
 ## Step 3: insert the key in the computer
 cf https://github.com/InteraactionGroup/InterAACtionBox to see which PC we selected
 
