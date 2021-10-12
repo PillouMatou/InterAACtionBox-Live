@@ -123,9 +123,12 @@ Une fois l'installation finit une fenêtre va apparaître et vous demandez de re
 
 ![redemarrer](assets/tutorial/redemarrer.jpg)
 
-Au redémarrage, l'interAACtion box se lance automatiquement, vous avez maintenant accès aux différents logiciels.
+Au redémarrage, l'interAACtion box se lance automatiquement, il vous faudra aller dans "Mise à jour disponible !" en haut à gauche de l'écran.
 
 ![interaaaction](assets/tutorial/interaactionBox.png)
+
+Sur cette page, vous devez appuyer sur "installer tous" pour avoir accès à toutes les applications.
+![mise à jour](assets/tutorial/miseajour.png)
 
 ## Bug connu
 
