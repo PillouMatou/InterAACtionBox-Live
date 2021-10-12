@@ -8,26 +8,26 @@ Le fichier est disponible ici :
 ## Etape 2: Graver l'ISO téléchargé sur la clé USB
 - Utiliser Startup Disk Creator sur Ubuntu
 
-Lorsque vous télécharger startup Disk creator vous devrez avoir cette image.
+Lorsque vous téléchargez startup Disk creator vous devrez avoir cette image.
 
 ![startup Disk creator](assets/tutorial/startupDiskCreator.png)
 
-Il vous faudra choisir le périphérique où vous voudrez graver l'ISO.   <br>
+Il vous faudra choisir le périphérique où vous voudrez graver l'ISO.<br>
 Puis aller cherche l'ISO que vous voulez graver.
 
 ![creator peripherique iso](assets/tutorial/creatorPeripheriqueIso.png)
 
-Au moment graver l'ISO sur la clé USB, une fenêtre d'avertissement apparaîtra.
+Au moment gravé l'ISO sur la clé USB, une fenêtre d'avertissement apparaîtra.
 
 ![creator avertissement](assets/tutorial/fenetreDavertissement.png)
 
-Il faut cliquer sur oui.
+Il faut cliquer sur "oui".
 
 Après plusieurs minutes d'attente, vous devriez obtenir cette fenêtre si tout s'est bien passé.
 
 ![creator reussit](assets/tutorial/CreatorReussit.png)
 
-- Utiliser [Rufus](https://rufus.ie/en/) on Window (download here https://rufus.ie/en/)
+- Utiliser [Rufus](https://rufus.ie/fr/) sur Window (télécharger ici : https://rufus.ie/fr/)
 
 Il vous faudra choisir le périphérique où vous voudrez graver l'ISO.   <br>
 Puis aller cherche l'ISO que vous voulez graver.
@@ -46,8 +46,7 @@ Il est possible que cette fenêtre s'ouvre.
 
 Il vous faudra accepter en cliquant sur "Oui".<br>
 
-Si tout s'est bien passé, vous devriez obtenir cette fenêtre
-
+Si tout s'est bien passé, vous devriez obtenir cette fenêtre.
 
 - Utiliser [mac tool](https://ipom.fr/2019/07/03/creer-windows-10-bootable-graver-un-fichier-iso-sur-usb-dvd-cd-sur-mac-os-x/) on Mac
 ## Etape 3: inséré la clé USB dans l'ordinateur
@@ -60,7 +59,7 @@ Lorsque vous serez au menu BIOS.
 
 ![menuBIOS](assets/tutorial/bootMenu.png)
 
-Il vous faudra aller dans la rubrique "Boot Configuration".
+Il vous faudra aller sous la rubrique "Boot configuration".
 
 ![boot config](assets/tutorial/bootConfiguration.png)
 
@@ -74,7 +73,7 @@ Pour finir appliquer les modifications et redémarrer l'ordinateur.
 
 ## Etape 5: installation de l'OS
 
-Avant d'arriver au menu vous aurez cette écran de chargement veuillez patienter.
+Avant d'arriver au menu vous aurez cet écran de chargement veuillez patienter..
 
 ![chargement](assets/tutorial/chargementUbuntu.png)
 
@@ -88,17 +87,17 @@ Choisissez la langue de votre clavier.
 
 ![langue du clavier](assets/tutorial/langueClavier.png)
 
-Choisissez votre réseau wifi (Attention pour accéder au contenu de l'interaaaction box une connexion internet est obligatoire!).
+Choisissez votre réseau Wi-Fi (Attention pour accéder au contenu de l'interaaaction box une connexion internet est obligatoire!).
 
 ![connexion](assets/tutorial/connexion.png)
 
-Choissez l'installation minimal et laisser le reste par défaut
+Choisissez l'installation minimale et laissez le reste par défaut.
 
 ![minimal](assets/tutorial/choisirMinimal.png)
 
-Vous arriverez sur le type d'installation, ici 2 choix s'offre à vous.<br>
+Vous arriverez sur le type d'installation, ici 2 choix s'offrent à vous.<br>
 Soit vous décidez de créer un dual boot et vous sélectionnez le premier choix (mais vous aurez assurément des complications si vous avez un window au parallèle).<br>
-Soit vous décidez d'écraser votre ancien système d'exploitation et mettre celui si à la place dans ce cas prenez le second choix.
+Soit vous décidez d'écraser votre ancien système d'exploitation et mettre celui-ci à la place dans ce cas prend le second choix.
 
 ![dualboot choix](assets/tutorial/dualbootOrFormat.png)
 
@@ -120,12 +119,14 @@ Ubuntu va s'installer veuillez attendre.
 
 ![chargementUbuntu](assets/tutorial/chargementApresInstall.png)
 
-Une fois l'installation fini une fenêtre va apparaître et vous demandez de redémarer, appuyez sur "redémarrer maintenant".
+Une fois l'installation finit une fenêtre va apparaître et vous demandez de redémarrer, appuyez sur "redémarrer maintenant".
 
 ![redemarrer](assets/tutorial/redemarrer.jpg)
 
-Au redémarrage, l'interraaaction box se lance automatiquement, vous avez maintenant accès aux différents logiciels.
+Au redémarrage, l'interAACtion box se lance automatiquement, vous avez maintenant accès aux différents logiciels.
 
 ![interaaaction](assets/tutorial/interaactionBox.png)
+
 ## Bug connu
-Si l'interaaaction box vous bloque dans les menus et que vous devez sortir, allumez l'ordinateur, sortez du mode veille et allez dans le menu utilisateur, puis redémarrez l'ordinateur.
+
+Si l'interAACtion box vous bloque dans les menus et que vous devez sortir, allumez l'ordinateur, sortez du mode veille et allez dans le menu utilisateur, puis redémarrez l'ordinateur.
