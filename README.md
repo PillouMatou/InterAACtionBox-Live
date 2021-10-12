@@ -56,10 +56,76 @@ cf https://github.com/InteraactionGroup/InterAACtionBox pour voir l'ordinateur q
 ## Etape 4: boot sur la clé USB
 - 2 possibilités d'accéder au menu BIOS [BIOS menu](https://www.dell.com/support/kbdoc/fr-fr/000126121/acc%c3%a8s-%c3%a0-la-configuration-syst%c3%a8me-uefi-bios-sous-windows-sur-votre-syst%c3%a8me-dell#:~:text=Appuyez%20sur%20la%20touche%20F2%3E%20sur%20l'%C3%A9cran%20du%20logo,pendant%20le%20d%C3%A9marrage%20du%20syst%C3%A8me)
 
+Lorsque vous serez au menu BIOS.
 
+![menuBIOS](assets/tutorial/bootMenu.png)
 
-## Step 5: install the OS selecting "minimal" install
-You must be connected to the internet to access the box launcher interaction
+Il vous faudra aller dans la rubrique "Boot Configuration".
 
-## Bug case
-If the interaction box blocks you in the menus and you need to exit, turn on the computer, get out of the standby mode and go to the user menu, then restart the computer
+![boot config](assets/tutorial/bootConfiguration.png)
+
+Puis il vous faudra réorganiser les lignes en mettant les ports USB en premier.
+
+![boot Organiser](assets/tutorial/bootOrganisation.png)
+
+Pour finir appliquer les modifications et redémarrer l'ordinateur.
+
+![boot accept](assets/tutorial/bootAcceptChanges.png)
+
+## Etape 5: installation de l'OS
+
+Avant d'arriver au menu vous aurez cette écran de chargement veuillez patienter.
+
+![chargement](assets/tutorial/chargementUbuntu.png)
+
+Vous allez arriver sur le premier écran.
+
+![installation premier ecran](assets/tutorial/InstallationInteraaaction.png)
+
+Sélectionner "installer interaaaction". <br>
+
+Choisissez la langue de votre clavier.
+
+![langue du clavier](assets/tutorial/langueClavier.png)
+
+Choisissez votre réseau wifi (Attention pour accéder au contenu de l'interaaaction box une connexion internet est obligatoire!).
+
+![connexion](assets/tutorial/connexion.png)
+
+Choissez l'installation minimal et laisser le reste par défaut
+
+![minimal](assets/tutorial/choisirMinimal.png)
+
+Vous arriverez sur le type d'installation, ici 2 choix s'offre à vous.<br>
+Soit vous décidez de créer un dual boot et vous sélectionnez le premier choix (mais vous aurez assurément des complications si vous avez un window au parallèle).<br>
+Soit vous décidez d'écraser votre ancien système d'exploitation et mettre celui si à la place dans ce cas prenez le second choix.
+
+![dualboot choix](assets/tutorial/dualbootOrFormat.png)
+
+Si vous prenez le second choix vous aurez une fenêtre qui vous demandera si êtes sûr d'écraser le système d'exploitation précédent.
+
+![confirmation](assets/tutorial/Overwrite.png)
+
+Cliquez sur continuer. <br>
+
+Sélectionner votre ville puis continuer.
+
+![fuseau horaire](assets/tutorial/fuseauHoraire.png)
+
+Créer votre utilisateur avec un nom et un mot de passe puis continuer.
+
+![user](assets/tutorial/createUser.png)
+
+Ubuntu va s'installer veuillez attendre.
+
+![chargementUbuntu](assets/tutorial/chargementApresInstall.png)
+
+Une fois l'installation fini une fenêtre va apparaître et vous demandez de redémarer, appuyez sur "redémarrer maintenant".
+
+![redemarrer](assets/tutorial/redemarrer.jpg)
+
+Au redémarrage, l'interraaaction box se lance automatiquement, vous avez maintenant accès aux différents logiciels.
+
+![interaaaction](assets/tutorial/interaactionBox.png)
+## Bug connu
+Si l'interaaaction box vous bloque dans les menus et que vous devez sortir, allumez l'ordinateur, sortez du mode veille et allez dans le menu utilisateur, puis redémarrez l'ordinateur.
