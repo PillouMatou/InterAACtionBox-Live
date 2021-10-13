@@ -9,16 +9,16 @@ Le fichier est disponible ici :
 
 - Utiliser Startup Disk Creator sur Ubuntu
 
-Après avoir téléchargé startup Disk creator vous devrez avoir cette image.
+Après avoir téléchargé startup Disk creator cette fenêtre apparait.
 
 ![startup Disk creator](assets/tutorial/startupDiskCreator.png)
 
-Il faudra choisir le périphérique où vous voudrez graver l'ISO.<br>
-Puis aller chercher l'ISO à graver.
+Il faudra choisir le périphérique où graver l'ISO.<br>
+Puis aller sélectionner l'ISO à graver.
 
 ![creator peripherique iso](assets/tutorial/creatorPeripheriqueIso.png)
 
-Au moment de gravé l'ISO sur la clé USB, une fenêtre d'avertissement apparaîtra.
+Au moment de graver l'ISO sur la clé USB, une fenêtre d'avertissement apparaîtra.
 
 ![creator avertissement](assets/tutorial/fenetreDavertissement.png)
 
@@ -30,8 +30,8 @@ Après plusieurs minutes d'attente, cette fenêtre apparaîtra si tout s'est bie
 
 - Utiliser [Rufus](https://rufus.ie/fr/) sur Window (télécharger ici : https://rufus.ie/fr/)
 
-Il vous faudra choisir le périphérique où vous voudrez graver l'ISO. <br>
-Puis aller cherche l'ISO que vous voulez graver.
+Il vous faudra choisir le périphérique où graver l'ISO. <br>
+Puis aller sélectionner l'ISO que à graver.
 
 ![rufus peripherique ISO](assets/tutorial/rufusPeripheriqueISO.png)
 
@@ -77,7 +77,7 @@ Pour finir, appliquer les modifications et redémarrer l'ordinateur.
 
 ## Etape 5: installation de l'OS
 
-Avant d'arriver au menu vous aurez cet écran de chargement, veuillez patienter..
+Avant d'arriver au menu, cet écran de chargement s'affichera, veuillez patienter..
 
 ![chargement](assets/tutorial/chargementUbuntu.png)
 
@@ -87,19 +87,19 @@ Vous allez arriver sur le premier écran.
 
 Sélectionner "installer interaaaction". <br>
 
-Choisissez la langue de votre clavier.
+Choisir la langue de votre clavier.
 
 ![langue du clavier](assets/tutorial/langueClavier.png)
 
-Choisissez votre réseau Wi-Fi (Attention, pour installer les logiciels ou faire les mises à jour une connexion internet est obligatoire !).
+Choisir votre réseau Wi-Fi (Attention, pour installer les logiciels ou faire les mises à jour une connexion internet est obligatoire !).
 
 ![connexion](assets/tutorial/connexion.png)
 
-Choisissez l'installation minimale et laissez le reste par défaut.
+Choisir l'installation minimale et laisser le reste par défaut.
 
 ![minimal](assets/tutorial/choisirMinimal.png)
 
-Vous arriverez sur le type d'installation, ici 2 choix s'offrent à vous :
+Le type d'installation va être demandé, ici 2 choix s'offrent à vous :
 
 - Soit vous décidez de créer un dual boot et vous sélectionnez le premier choix (mais vous aurez assurément des complications si vous avez un window au parallèle).
 - Soit vous décidez d'écraser votre ancien système d'exploitation et mettre celui-ci à la place, dans ce cas prendre le second choix.
@@ -110,7 +110,7 @@ Si vous prenez le second choix vous aurez une fenêtre qui vous demandera si vou
 
 ![confirmation](assets/tutorial/Overwrite.png)
 
-Cliquez sur continuer. <br>
+Cliquer sur continuer. <br>
 
 Sélectionner votre ville puis continuer.
 
